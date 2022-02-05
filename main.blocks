@@ -1,0 +1,37 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="vt*8BG:%%I#E,PL-~+vD">myImage</variable><variable id="8l@|a2DlWtnj(iWw_p=-">pause</variable></variables><block type="device_forever" id="mYxwb(u/ToV6MwMu+P$!" x="425" y="-427"><statement name="HANDLER"><block type="device_show_image_offset" id="ZW}q]Ens1]c[kQB%-{/^"><mutation xmlns="http://www.w3.org/1999/xhtml" _expanded="0" _input_init="false"></mutation><value name="sprite"><block type="device_build_image" id="xmgP#C8)4K94Ui-WFh|$"><field name="LEDS">`
+        . . . . . 
+        . # # # . 
+        . . # . . 
+        . . # . . 
+        . . # . .
+        `</field></block></value><value name="offset"><shadow type="math_number" id="#:j:[QsP4yZl{Pb*2l;|"><field name="NUM">0</field></shadow></value><next><block type="device_pause" id="gt[%-bK$5(r:ZP~eY6Qw"><value name="pause"><shadow type="timePicker"><field name="ms">100</field></shadow><block type="variables_get" id="8|bsDHIYjpz|]((LwUw?"><field name="VAR" id="8l@|a2DlWtnj(iWw_p=-">pause</field></block></value><next><block type="device_show_image_offset" id="{$$5VvB$@xHMA3RkfHjW"><mutation xmlns="http://www.w3.org/1999/xhtml" _expanded="0" _input_init="false"></mutation><value name="sprite"><block type="device_build_image" id="t[v/X]0p=~cJaQN,6RPA"><field name="LEDS">`
+        . # # # . 
+        . # . . . 
+        . # # . . 
+        . # . . . 
+        . # # # .
+        `</field></block></value><value name="offset"><shadow type="math_number" id=".k1R|^!XINAh#RAj^oK{"><field name="NUM">0</field></shadow></value><next><block type="device_pause" id="W`[@KPcpE^SXx~I$Fk(4"><value name="pause"><shadow type="timePicker"><field name="ms">100</field></shadow><block type="variables_get" id="!aFMI)uIyw5txOh^lQQ["><field name="VAR" id="8l@|a2DlWtnj(iWw_p=-">pause</field></block></value><next><block type="device_show_image_offset" id="/90kSR#:.n9ttP=p~N/?"><mutation xmlns="http://www.w3.org/1999/xhtml" _expanded="0" _input_init="false"></mutation><value name="sprite"><block type="device_build_image" id="pm@V45/f`%coWJE[)=3D"><field name="LEDS">`
+        . . . . . 
+        . # . . # 
+        . # # . # 
+        . # . # # 
+        . # . . #
+        `</field></block></value><value name="offset"><shadow type="math_number" id="Ax9Oq[6=Th/;SZ;h@Kx!"><field name="NUM">0</field></shadow></value><next><block type="device_pause" id="ctYKg#[g(B2vj7N(.z!R"><value name="pause"><shadow type="timePicker"><field name="ms">100</field></shadow><block type="variables_get" id="VQLB3b8!K|38ELV^uTIF"><field name="VAR" id="8l@|a2DlWtnj(iWw_p=-">pause</field></block></value><next><block type="device_show_image_offset" id="8I]}AsV73`TysfuJP)_U"><mutation xmlns="http://www.w3.org/1999/xhtml" _expanded="0" _input_init="false"></mutation><value name="sprite"><block type="device_build_image" id="O,]?,%OsMk2`.$F74K4%"><field name="LEDS">`
+        . . . . . 
+        . . # . . 
+        . . . . . 
+        . . # . . 
+        . . # . .
+        `</field></block></value><value name="offset"><shadow type="math_number" id="6S,v2#i@tU-x[[clYV/}"><field name="NUM">0</field></shadow></value><next><block type="device_pause" id="[x[D~A780I[o6)nrRBi3"><value name="pause"><shadow type="timePicker"><field name="ms">100</field></shadow><block type="variables_get" id="vi:[kw/#?U,UgH0(@yRT"><field name="VAR" id="8l@|a2DlWtnj(iWw_p=-">pause</field></block></value><next><block type="device_show_image_offset" id="JG7F8YQdD$Y-}E%{1D}r"><mutation xmlns="http://www.w3.org/1999/xhtml" _expanded="0" _input_init="false"></mutation><value name="sprite"><block type="device_build_image" id="EPV#@VEI[=I(m]Oxqa|p"><field name="LEDS">`
+        . . . . . 
+        . # # # . 
+        . . # . . 
+        . . # . . 
+        . . # . .
+        `</field></block></value><value name="offset"><shadow type="math_number" id="Wou6-oz|m]rE*eNSR_P2"><field name="NUM">0</field></shadow></value><next><block type="device_pause" id="y5;[R}lNdceW6CFrhM)^"><value name="pause"><shadow type="timePicker"><field name="ms">100</field></shadow><block type="variables_get" id="t*g8Lp~O[V=R8*{#^y3W"><field name="VAR" id="8l@|a2DlWtnj(iWw_p=-">pause</field></block></value><next><block type="device_show_image_offset" id="`zy]b#@dWN*?yXu^3E0*"><mutation xmlns="http://www.w3.org/1999/xhtml" _expanded="0" _input_init="false"></mutation><value name="sprite"><block type="device_build_image" id="gEW1{yZEktY94ccW(oLu"><field name="LEDS">`
+        . . . . . 
+        . # # # . 
+        . # . # . 
+        . # # # . 
+        . # . # .
+        `</field></block></value><value name="offset"><shadow type="math_number" id="AolrppR{9]GUza+|KdU}"><field name="NUM">0</field></shadow></value></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></statement></block><block type="pxt-on-start" id="0/X*ve@-XjS(F}~EL]rJ" x="0" y="0"><statement name="HANDLER"><block type="variables_set" id="q)[XK_C_,48SYB;c*.V("><field name="VAR" id="8l@|a2DlWtnj(iWw_p=-">pause</field><value name="VALUE"><shadow type="math_number" id="?V7Er|,tyVYc=T=N*l?M"><field name="NUM">999</field></shadow></value></block></statement></block></xml>
